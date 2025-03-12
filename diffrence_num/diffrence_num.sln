@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "diffrence_num", "diffrence_num\diffrence_num.pyproj", "{83AC7762-83DE-4C27-B55A-F93704A47B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83AC7762-83DE-4C27-B55A-F93704A47B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AC7762-83DE-4C27-B55A-F93704A47B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2195167A-AAA7-449D-9BDA-7D0ABF991932}
+	EndGlobalSection
+EndGlobal
