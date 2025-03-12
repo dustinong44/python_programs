@@ -6,7 +6,7 @@ while True:
 
     product_num = first_num * second_num
 
-    print ("The product of the two numbers is", product_num)
+    print ("The product of the two numbers is", s_num)
 
     decision = input ("Do you want to input another pair of number? (yes/no):")
     if decision != "yes":
