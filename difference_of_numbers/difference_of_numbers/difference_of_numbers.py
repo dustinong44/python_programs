@@ -1,8 +1,8 @@
 
 while True:
     print ("Good Day!!")
-    first_num = float (input ("Please enter your subtrahend:"))
-    second_num = float (input ("Please enter your minuend:"))
+    first_num = float(input ("Please enter your subtrahend:"))
+    second_num = float(input ("Please enter your minuend:"))
 
     difference_of_num = first_num  - second_num
 
