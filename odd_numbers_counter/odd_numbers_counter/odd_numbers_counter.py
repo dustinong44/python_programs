@@ -1,14 +1,15 @@
 while True:
-    for a in range (0, 10):
-        user_input = input ("Please enter your number:")
-        
-        odd_number = 0
-        
-        if a % 2 == 0:
-         odd_number += 1
-            
-        print ("There are", odd_number, "odd numbers on the set of numbers")
+    odd_number = 0  
 
-    decision = input ("Do you want to enter another set of numbers? (yes/no):")
+    for a in range(10):  # Loop 10 times
+        user_input = int(input("Please enter your number: "))  
+
+        if user_input % 2 == 1:  
+            odd_number += 1  
+
+    print("There are", odd_number, "odd numbers in the set of numbers.")
+
+    decision = input("Do you want to enter another set of numbers? (yes/no): ")
     if decision != "yes":
-        break
+        print("Thank you!")
+        break  
