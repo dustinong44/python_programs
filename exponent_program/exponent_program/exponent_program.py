@@ -3,7 +3,7 @@ while True:
     first_num = float(input ("Please enter your First Number:"))
     second_num = float(input ("Please enter your Second Number:"))
 
-    result_num = first_num  ** second_num
+    result_num = first_num ** second_num
 
     print ("The result of the exponentiation of two numbers is", result_num)
 
