@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>83ac7762-83de-4c27-b55a-f93704a47b19</ProjectGuid>
+    <ProjectGuid>e2274e56-0426-4310-a057-8654c1151a20</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>diffrence_num.py</StartupFile>
+    <StartupFile>difference_of_numbers.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>diffrence_num</Name>
-    <RootNamespace>diffrence_num</RootNamespace>
+    <Name>difference_of_numbers</Name>
+    <RootNamespace>difference_of_numbers</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="diffrence_num.py" />
+    <Compile Include="difference_of_numbers.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
