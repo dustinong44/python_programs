@@ -1,8 +1,8 @@
 
 while True:
     print ("Good Day!!")
-    first_num = float(input ("Please enter your multiplier:"))
-    second_num = float(input ("Please enter your multiplicand:"))
+    first_num = float(input("Please enter your multiplier:"))
+    second_num = float(input("Please enter your multiplicand:"))
 
     product_num = first_num * second_num
 
