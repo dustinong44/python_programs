@@ -1,8 +1,8 @@
 
 while True:
     print ("Good Day!!")
-    first_num = float (input ("Please enter your first addends:"))
-    second_num = float (input ("Please enter your second addends:"))
+    first_num = float(input ("Please enter your first addends:"))
+    second_num = float(input ("Please enter your second addends:"))
 
     sum_num = first_num + second_num
 
