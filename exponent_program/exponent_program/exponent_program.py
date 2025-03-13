@@ -1,7 +1,7 @@
 while True:
     print ("Good Day!!")
-    first_num = float(input ("Please enter your First Number:"))
-    second_num = float(input ("Please enter your Second Number:"))
+    first_num = float(input("Please enter your First Number:"))
+    second_num = float(input("Please enter your Second Number:"))
 
     result_num = first_num ** second_num
 
