@@ -1,7 +1,7 @@
 while True:
     print ("Good Day!!")
-    first_num = float (input ("Please enter your dividend:"))
-    second_num = float (input ("Please enter your divisor:"))
+    first_num = float(input("Please enter your dividend:"))
+    second_num = float(input("Please enter your divisor:"))
 
     quotient_num = first_num / second_num
 
