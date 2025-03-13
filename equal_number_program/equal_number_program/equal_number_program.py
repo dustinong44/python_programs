@@ -3,8 +3,8 @@ while True:
 
     print ("Good Day!")
 
-    first_num=float (input("Please Enter your First Number:"))
-    second_num=float (input("Please Enter your Second Number:"))
+    first_num = float(input("Please Enter your First Number:"))
+    second_num = float(input("Please Enter your Second Number:"))
 
     if first_num == second_num:
         print ("The Given Numbers are Equal")
