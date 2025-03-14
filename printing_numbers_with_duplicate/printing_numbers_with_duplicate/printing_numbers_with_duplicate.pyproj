@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>30218b7d-8b72-4d44-a056-fdeb9fc9e4f4</ProjectGuid>
+    <ProjectGuid>64afec9f-c865-4bf7-a1f4-2a14ef79a19b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>numbers_without_duplicate.py</StartupFile>
+    <StartupFile>printing_numbers_with_duplicate.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>numbers_without_duplicate</Name>
-    <RootNamespace>numbers_without_duplicate</RootNamespace>
+    <Name>printing_numbers_with_duplicate</Name>
+    <RootNamespace>printing_numbers_with_duplicate</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="numbers_without_duplicate.py" />
+    <Compile Include="printing_numbers_with_duplicate.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
