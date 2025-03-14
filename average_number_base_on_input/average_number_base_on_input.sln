@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "average_number_base_on_input", "average_number_base_on_input\average_number_base_on_input.pyproj", "{82137054-EA5F-41F0-82A7-1F513B4D4497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82137054-EA5F-41F0-82A7-1F513B4D4497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82137054-EA5F-41F0-82A7-1F513B4D4497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDCE06C2-8B2B-4E86-9C50-ADE3D1A604E3}
+	EndGlobalSection
+EndGlobal

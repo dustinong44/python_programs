@@ -7,6 +7,64 @@ while True:
     except ValueError:
         break
 
-    input_list.sort()
+input_list.sort()
+print(input_list)
 
-    print(input_list)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
